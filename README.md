@@ -1,5 +1,3 @@
-# Biotechnology-Portfolio
-Academic portfolio containing biotechnology laboratory reports and research assignments.
 # Biotechnology Portfolio
 
 Welcome to my academic portfolio repository.
