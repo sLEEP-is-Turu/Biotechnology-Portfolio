@@ -22,9 +22,6 @@ Interested in:
 ### Laboratory Reports
 Collection of laboratory reports from biotechnology-related courses.
 
-### OmicsLite Assignments
-Paper summaries and exercises completed during the OmicsLite training program.
-
 ### Research Projects
 Research documentation and scientific projects related to biotechnology and bioinformatics.
 
